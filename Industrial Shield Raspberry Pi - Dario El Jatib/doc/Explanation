@@ -1,0 +1,37 @@
+﻿Industrial Shield for Raspberry Pi 2-3-3B+
+
+Made by Dario El Jatib
+Buenos Aires, Argentina 
+01-10-19
+
+Characteristics:
+
+* Input of power until 24VDC (positive centre by power jack).
+* Adapted input/output 5V-3.3V and Vin-3.3V.
+* 2 relay outputs controlled by GPIO16 and GPIO19.
+* 2 leds for general porpuse controlled by GPIO23 and GPIO24.
+* RS-485 communication using IC MAC485 with the folowing pinout:
+
+RO --> GPIO15
+RE --> GPIO17
+DE --> GPIO27
+DI --> GPIO15
+
+***********************************************************************
+
+LEVEL VOLTAGE SHIFTERS:
+
+CONNECTOR J9:
+This connector alows you to operate GPIO26 with 5V.
+
+CONNECTOR J10:
+This connector alows you ot operate GPIO22 with 5V.
+
+CONNECTOR J6:
+This connector alows you ot operate GPIO22 with 5V.
+
+CONNECTOR J7:
+This connector alows you ot operate GPIO22 with the same voltage of the power input (until 24VDC).
+
+CONNECTOR J6:
+This connector alows you ot operate GPIO22 with the same voltage of the power input (until 24VDC).
