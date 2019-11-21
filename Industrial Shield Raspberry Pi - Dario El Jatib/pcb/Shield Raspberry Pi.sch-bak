@@ -1,16 +1,15 @@
 EESchema Schematic File Version 4
-LIBS:Shield Raspberry Pi-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Indusrial Shield Raspberry Pi 3 / 3B+"
-Date "2019-09-18"
+Date "2019-10-01"
 Rev "01"
-Comp "TIBV / EANT"
+Comp "Dario El Jatib"
 Comment1 ""
-Comment2 "https://github.com/cese-dci/tp-dci--darioeljatib/blob/master/doc/Explicaci%C3%B3n"
+Comment2 ""
 Comment3 ""
 Comment4 "Mas información en:"
 $EndDescr

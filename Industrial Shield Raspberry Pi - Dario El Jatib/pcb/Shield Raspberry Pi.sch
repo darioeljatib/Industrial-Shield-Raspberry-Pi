@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Shield Raspberry Pi-cache
 EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
@@ -9,9 +10,9 @@ Date "2019-10-01"
 Rev "01"
 Comp "Dario El Jatib"
 Comment1 ""
-Comment2 ""
+Comment2 "https://github.com/darioeljatib/Industrial-Shield-Raspberry-Pi.git"
 Comment3 ""
-Comment4 "Mas información en:"
+Comment4 "For more information:"
 $EndDescr
 $Comp
 L Shield-Raspberry-Pi-rescue:SANYOU_SRD_Form_C-Shield-Raspberry-Pi-rescue K2
